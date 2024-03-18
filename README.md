@@ -1,5 +1,5 @@
 # APANPS5205: Applied Analytics Frameworks and Methods II Final Project
-Group Members: Haoran Yang, Sixuan Li, Wenling Zhou, Wenyang Cao
+Group Members: Haoran Yang, Sixuan Li, Wenling Zhou, Wenyang Cao.
 
 **Project Proposal**
 * Raw Data scraped from here: https://fangj.github.io/friends/
